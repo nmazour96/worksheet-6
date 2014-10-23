@@ -8,18 +8,17 @@ h1 {
 }
 img {
     height: 450px;
-    width: 700px;
 }
-img.left {
+.left {
     float: left;
 }
-img.right {
+.right {
     float: right;
 }
-div.line-separator {
+.line-separator {
     height: 30em;
 }
-img.center {
+.center {
     display: block;
     margin-left: 30%;
     margin-right: 30%;
@@ -30,7 +29,7 @@ p {
     text-align: center;
     font-size: 30pt;
 }
-div.line-separator2 {
+.line-separator2 {
     height: 2em;
 }
 
