@@ -8,28 +8,44 @@ h1 {
 }
 img {
     height: 450px;
+    opacity: 0.5;
 }
 .left {
     float: left;
 }
+.left:hover {
+    opacity: 1;
+    width: 50%;
+}
 .right {
     float: right;
 }
-.line-separator {
-    height: 30em;
+.right:hover {
+    opacity: 1;
+    width: 50%;
 }
 .center {
     display: block;
     margin-left: 30%;
     margin-right: 30%;
     width: 40%;
+}.center:hover {
+    opacity: 1;
+}
+.line-separator {
+    height: 30em;
 }
 p {
-    color: #FF0000;
-    text-align: center;
+    color: #ff0000;
     font-size: 30pt;
+    text-align: center;
 }
-.line-separator2 {
-    height: 2em;
+.instruction {
+    font-size: 15pt;
 }
-
+.answer:hover {
+    opacity: 1;
+}
+.answer {
+    opacity: 0;
+}
