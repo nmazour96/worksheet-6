@@ -1,8 +1,35 @@
 h1 {
-    text-align: center;
     color: #008000;
     font-size: 50pt;
+    text-align: center;
 }
 html {
     background-color: #000000;
+}
+img.left {
+    float: left;
+}
+img.right {
+    float: right;
+}
+p {
+    color: #FF0000;
+    text-align: center;
+    font-size: 30pt;
+}
+img.center {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    width: 40%;
+}
+div.line-separator {
+    height: 30em;
+}
+div.line-separator2 {
+    height: 2em;
+}
+img {
+    height: 450px;
+    width: 700px;
 }
