@@ -45,12 +45,14 @@ p {
 }
 .instruction {
     font-size: 15pt;
+    color: #0F0;
 }
 .answer:hover {
     opacity: 1;
 }
 .answer {
     opacity: 0;
+    color: #0F0;
 }
 .small {
     width: 20%;
@@ -59,6 +61,7 @@ p {
 }
 .small:hover {
 	opacity: 1;
+	height: 400px
 }
 .blue {
 	color: #00F;
