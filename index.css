@@ -1,10 +1,14 @@
-h1 {
-    color: #008000;
-    font-size: 50pt;
-    text-align: center;
-}
 html {
     background-color: #000000;
+}
+h1 {
+    color: #008000;
+    font-size: 75pt;
+    text-align: center;
+}
+img {
+    height: 450px;
+    width: 700px;
 }
 img.left {
     float: left;
@@ -12,10 +16,8 @@ img.left {
 img.right {
     float: right;
 }
-p {
-    color: #FF0000;
-    text-align: center;
-    font-size: 30pt;
+div.line-separator {
+    height: 30em;
 }
 img.center {
     display: block;
@@ -23,13 +25,12 @@ img.center {
     margin-right: 30%;
     width: 40%;
 }
-div.line-separator {
-    height: 30em;
+p {
+    color: #FF0000;
+    text-align: center;
+    font-size: 30pt;
 }
 div.line-separator2 {
     height: 2em;
 }
-img {
-    height: 450px;
-    width: 700px;
-}
+
