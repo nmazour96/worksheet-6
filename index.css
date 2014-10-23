@@ -60,3 +60,6 @@ p {
 .small:hover {
 	opacity: 1;
 }
+.blue {
+	color: #00F;
+}
