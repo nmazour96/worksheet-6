@@ -1,5 +1,5 @@
 html {
-    background-color: #000000;
+    background-color: #000;
 }
 h1 {
     color: #0F0;
@@ -12,6 +12,7 @@ img {
 }
 .left {
     float: left;
+    width: 40%;
 }
 .left:hover {
     opacity: 1;
@@ -19,6 +20,7 @@ img {
 }
 .right {
     float: right;
+    width: 40%;
 }
 .right:hover {
     opacity: 1;
@@ -29,7 +31,8 @@ img {
     margin-left: 30%;
     margin-right: 30%;
     width: 40%;
-}.center:hover {
+}
+.center:hover {
     opacity: 1;
 }
 .line-separator {
