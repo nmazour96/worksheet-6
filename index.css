@@ -57,3 +57,6 @@ p {
     height: 300px;
     float: left;
 }
+.small:hover {
+	opacity: 1;
+}
