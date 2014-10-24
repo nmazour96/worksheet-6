@@ -43,7 +43,7 @@ p {
     font-size: 30pt;
     text-align: center;
 }
-.instruction {
+.green {
     font-size: 15pt;
     color: #0F0;
 }
@@ -67,9 +67,9 @@ p {
 }
 .kitten {
 	height: 450px;
-	width: 10%;
-	margin-left: 45&;
-	margin-right: 45%;
+	width: 30%;
+	margin-left: 35%;
+	margin-right: 35%;
 }
 .kitten:hover {
 	opacity: 1;
